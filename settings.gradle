@@ -1,0 +1,8 @@
+include ':collapsing'
+include ':workmanager'
+include ':pagination'
+include ':commonlibrary'
+include ':otp'
+include ':map'
+include ':app'
+rootProject.name = "Multimodule"

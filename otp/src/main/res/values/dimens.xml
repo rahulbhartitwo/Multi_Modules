@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  custom OTP -->
+    <dimen name="otp_customotp_view_item_size">57dp</dimen>
+    <dimen name="otp_customotp_view_item_radius">2dp</dimen>
+    <dimen name="otp_customotp_view_item_spacing">5dp</dimen>
+    <dimen name="otp_customotp_view_item_line_width">2dp</dimen>
+    <dimen name="otp_customotp_view_cursor_width">2dp</dimen>
+
+    <!--  for custom key board  -->
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="passcode_btn">70dp</dimen>
+    <dimen name="passcode_btn_margin">10dp</dimen>
+</resources>
